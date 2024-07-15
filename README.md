@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heliacer</h1>
 <h3 align="center">I'm a Swiss student at Gymnasium @KUS. Full stacked developer :)</h3>
 
-- 🔭 I’m currently working on [Graplet, a block based bot creator for discord](https://graplet.github.io)
+- 🔭 I’m currently working on [Graplet, a block based program creator](https://github.com/graplet/graplet.github.io)
 
 - ⚡ About [heliacer.github.io](https://heliacer.github.io)
 
