@@ -3,8 +3,6 @@
 
 🔭 I’m currently working on [Graplet, a block based program creator](https://github.com/graplet/graplet.github.io)
 
-⚡ Portfolio [heliacer.github.io](https://heliacer.github.io)
-
  📫 Mail **heliacer35@gmail.com**
 
 ![Tech stack](https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,nodejs,py)
