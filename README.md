@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [Graplet, a block based program creator](https://github.com/graplet/graplet.github.io)
 
- 📫 Mail **heliacer35@gmail.com**
+ 📫 Mail **heliacer@gmx.ch**
 
 ![Tech stack](https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,nodejs,py)
 
