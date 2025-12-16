@@ -3,7 +3,7 @@
 Welcome to my profile :D
 
 
-- 🔭 I'm actively working on <img src='https://avatars.githubusercontent.com/u/221183432?s=25&u=c9bee11f7bbd7643e3e9be70e1a5151de627de92&v=4' align='top'>**Graplet** (a 3D Scratch-like 3D Editor)*
+- 🔭 I'm actively working on <img src='https://avatars.githubusercontent.com/u/221183432?s=25&u=c9bee11f7bbd7643e3e9be70e1a5151de627de92&v=4' align='top'>**Graplet** (a 3D Scratch-like Editor)*
 
 - 🌿 Partially skilled in **Python, TypeScript** (ts is the 🐐😎)
 
